@@ -1,0 +1,46 @@
+body{
+    margin:0;
+    background-color : #EEE;
+}
+h4{
+    background: #DDD;
+    height: 35px;
+    line-height: 35px !important;
+    padding-left: 20px;
+    margin:0;
+}
+h5{
+    height: 35px;
+    line-height: 35px !important;
+    padding-left: 40px;
+    margin: 0;
+}
+select{
+    min-width:200px;
+}
+.topo{
+    height: 40px;
+    background: #333;
+    color:#FFF;
+}
+.topo a{
+    color: #FFF;
+    text-decoration: none;
+}
+.topo a div{
+    float:left;
+    height: 40px;
+    line-height: 40px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.topo a div:hover{
+    background: #555;
+    color: #FFF;
+}
+.topoUsuario{
+    float: right;
+    margin-right: 20px;
+    height: 40px;
+    line-height: 40px;
+}
